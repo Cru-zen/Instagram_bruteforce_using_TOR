@@ -8,11 +8,12 @@ Tor, which stands for "The Onion Router", is a network and browser that allows u
 * Middle nodes: Encrypt the traffic to ensure anonymity 
 * Exit nodes: Remove the final layer of encryption and send the data to its destination
 
-Note that the present script is not an exhaustive guide, rather it is intended to build some basic skills to test your Skills and get familiar with the concepts.
+Note that the present script is not an exhaustive guide, rather it is intended to build some basic skills and get familiar with the concepts.
 
 ## Install
 
 ```
 git clone https://github.com/Cru-zen/wifi_hack.git
-* Sudo pyhton3 insta.py
+--> sudo python3 insta.py
+
 ```
